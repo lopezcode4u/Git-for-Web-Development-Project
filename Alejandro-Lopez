@@ -1,18 +1,18 @@
- 1. What is Semantic HTML? 
-    2. What is HTML used for? 
-    3. What is an attribute and where do we put it? 
-    4. What is the h1 tag used for? How many times should I use it on a page?
-    5. Name two tags that have required attributes
-    6. What do we put in the head of our HTML document? 
-    7. What is an id? 
-    8. What elements can I add an id to? 
-    9. How many times can I use the same id on a page? 
-    10. What is a class? 
-    11. What elements can I add a class to? 
-    12. How many times can I use the same class on a page? 
-    13. How do I get my link to open in a new tab?
-    14. What is the alt attribute in the image tag used for? 
-    15. How do I reference an id?
+ 1. What is Semantic HTML? Semantic HTML is the correct form of HTML that is not merely based on appearance, but for screen reader accessibility and search engine optimization.
+    2. What is HTML used for? It is a markup language used to make documents onto a web page.
+    3. What is an attribute and where do we put it? Attributes define characteristics of an element and are put in quotations. 
+    4. What is the h1 tag used for? How many times should I use it on a page? An h1 tag should only be used once to be the main header of a web page.
+    5. Name two tags that have required attributes: An <img> tag and an <a> tag.
+    6. What do we put in the head of our HTML document? Specific information about the web page such as the title and other links known as Metadata.
+    7. What is an id? It is an attribute used to manipulate a specific block of elements.
+    8. What elements can I add an id to? One element.
+    9. How many times can I use the same id on a page? Only once.
+    10. What is a class? A class is an attribute like an ID, the differnece being, a class can apply to many elements.
+    11. What elements can I add a class to? Any elements in the <body>
+    12. How many times can I use the same class on a page? More than once.
+    13. How do I get my link to open in a new tab? You use the "href" attribute inside an <a> tag.
+    14. What is the alt attribute in the image tag used for? Text to describe what the image is incase it doesn't load and for accessibility.
+    15. How do I reference an id? 
     16. What is the difference between a section and a div
     17. What is CSS used for? 
     18. How to we select an element? Example - every h2 on the page
