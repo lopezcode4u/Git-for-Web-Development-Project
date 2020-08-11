@@ -1,4 +1,5 @@
- 1. What is Semantic HTML? Semantic HTML is the correct form of HTML that is not merely based on appearance, but for screen reader accessibility and search engine optimization.
+    https://codepen.io/lopezcode4u/pen/OJNVLeP
+    1. What is Semantic HTML? Semantic HTML is the correct form of HTML that is not merely based on appearance, but for screen reader accessibility and search engine optimization.
     2. What is HTML used for? It is a markup language used to make documents onto a web page.
     3. What is an attribute and where do we put it? Attributes define characteristics of an element and are put in quotations. 
     4. What is the h1 tag used for? How many times should I use it on a page? An h1 tag should only be used once to be the main header of a web page.
